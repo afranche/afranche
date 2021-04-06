@@ -11,6 +11,15 @@ Hello! I'm Anouar, young French guy who's passionate about infosec, programming 
 my best to put my skills to use in those domains. I also draw and make music from times to times
 otherwise.
 
+I strive to open an educational Youtube channel on automotive engines related topics but mainly
+to become a polyglot infosec engineer.
+
+# 🎨 Non-code skills and hobbies
+
+- 🗣️ My main hobby is to learn new languages (currently I'm learning Swedish),
+- 🚗 but, I also like to tune cars and work on engines and chassis.
+- 🔨 Finally, I like to work with metal, solder chassis and tubes but also to shape blades.
+
 # 🛠 What do I work with ?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afranche&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
