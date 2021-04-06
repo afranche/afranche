@@ -11,8 +11,9 @@ Hello! I'm Anouar, young French guy who's passionate about infosec, programming 
 my best to put my skills to use in those domains. I also draw and make music from times to times
 otherwise.
 
-I strive to open an educational Youtube channel on automotive engines related topics but mainly
-to become a polyglot infosec engineer.
+I strive to open an educational Youtube channel on automotive engines related topics and to help
+bringing open hardware to the automotive world. But my main goal is to become a polyglot infosec
+engineer.
 
 # 🎨 Non-code skills and hobbies
 
