@@ -5,7 +5,7 @@
 [![Matrix](https://img.shields.io/badge/Matrix-tobia__-fff?style=for-the-badge&logo=matrix)](https://matrix.org/)
 [![Twitch](https://img.shields.io/badge/Twitch-afranche-6441a5?style=for-the-badge&logo=twitch)](https://www.twitch.tv/afranche)
 
-[![Afranche's GitHub stats](https://github-readme-stats.vercel.app/api?username=afranche&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Afranche's GitHub stats](https://github-readme-stats.vercel.app/api?username=afranche&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello! I'm Anouar, young French guy who's passionate about infosec, programming and cars. I try
 my best to put my skills to use in those domains. I also draw and make music from times to times
@@ -22,7 +22,7 @@ to become a polyglot infosec engineer.
 
 # 🛠 What do I work with ?
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afranche&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afranche&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Environment
 
