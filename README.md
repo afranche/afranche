@@ -17,8 +17,8 @@ engineer.
 
 # 🎨 Non-code skills and hobbies
 
-- 🗣️ My main hobby is to learn new languages (currently I'm learning Swedish),
-- 🚗 but, I also like to tune cars and work on engines and chassis.
+- 🗣️ My main hobby is to learn new languages (currently I'm learning Swedish)
+- 🚗 but I also like to tune cars and work on engines and chassis.
 - 🔨 Finally, I like to work with metal, solder chassis and tubes but also to shape blades.
 
 # 🛠 What do I work with ?
