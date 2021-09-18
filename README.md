@@ -5,6 +5,8 @@
 [![Matrix](https://img.shields.io/badge/Matrix-tobia__-fff?style=for-the-badge&logo=matrix)](https://matrix.org/)
 [![Twitch](https://img.shields.io/badge/Twitch-afranche-6441a5?style=for-the-badge&logo=twitch)](https://www.twitch.tv/afranche)
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/afranche.png "TryHackMe badge")](https://tryhackme.com/p/afranche)
+
 [![Afranche's GitHub stats](https://github-readme-stats.vercel.app/api?username=afranche&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello! I'm Anouar, young French guy who's passionate about infosec, programming and cars. I try
@@ -24,16 +26,6 @@ engineer.
 # 🛠 What do I work with ?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afranche&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-## 💻 Environment
-
-I run NixOS and Windows respectively on my work and personal environments. I actually use WSL2 to run
-NixOS (Thanks to [Trundle/NixOS-WSL](https://github.com/Trundle/NixOS-WSL)) on my Windows environment.
-
-My reason for that is I've spent quite some time to find a distro I'm comfortable with but often gets
-lost in the configuration files. NixOS helped me manage my whole environment from a single file.
-
-My configuration for Nix can be found in [afranche/cornflakes](https://github.com/afranche/cornflakes).
 
 ## 📑 Text Editor
 
