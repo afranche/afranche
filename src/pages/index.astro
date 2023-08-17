@@ -1,15 +1,57 @@
 ---
+import Layout from "../layout.astro";
+
+import { Content as README } from "../../README.md";
+
+
+import Navbar from "../components/Navbar.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout>
+  <Navbar />
+  <div class="max-w-xs md:max-w-3xl flex flex-col items-center md:items-stretch gap-8">
+    <div
+      class="readme mt-16 max-w-4xl mb-16 pt-12 pb-8 px-8 md:p-12 bg-indigo-900 rounded-lg border border-[#1e1b4b] prose prose-sm md:prose-lg prose-slate prose-invert"
+    >
+      <README />
+    </div>
+  </div>
+</Layout>
+
+<style is:global>
+  .background-image {
+    @apply absolute -z-10 h-full;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    object-fit: none;
+    filter: brightness(0.5) blur(2px);
+  }
+
+  code {
+    font-family: "Victor Mono", monospace;
+  }
+
+  #projects,
+  #socials,
+  #links {
+    @apply font-bold text-4xl mt-6 mb-4 text-indigo-100;
+  }
+
+  th:first-of-type {
+    @apply pr-2;
+  }
+
+  th:last-of-type {
+    @apply pl-2;
+  }
+
+  .readme li {
+    @apply pl-2 mb-4;
+  }
+
+  .readme a {
+    @apply font-medium text-indigo-500;
+  }
+  .readme a:hover {
+    @apply underline;
+  }
+</style>

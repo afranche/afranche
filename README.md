@@ -1,47 +1,22 @@
-# Astro Starter Kit: Minimal
+# Hello There!
 
-```
-npm create astro@latest -- --template minimal
-```
+My name is Anouar. I'm a full-stack software engineer turned AppSec Engineer
+with over 5 years of experience now. You may find me posting little projects
+here and there, and contributing to projects where my skills are helping !
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+Outside of work, I'm currently focused on building [Posture][posture] and
+building [Crossbone][crossbone], a non-profit organization to entertain a
+local community and host events like talks or meetups around software and
+cloud engineering. Finally but not least, I love producing music and race
+cars. So here and then you might see me overshare on such topics. ☕
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+For a more detailed view of my skills, head over to my [LinkedIn][linkedin].
 
-## 🚀 Project Structure
+## Projects
 
-Inside of your Astro project, you'll see the following folders and files:
+- 📦 [Palette](#), an experimental package manager for learning purposes (repository unavailable atm).
+- 🏎️ [My MX-8](#), the project car which I'm swapping a V6 engine in.
 
-```
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+[posture]: https://github.com/afranche/posture
+[crossbone]: https://github.com/asso-crossbone/
+[linkedin]: https://www.linkedin.com/in/afranche/

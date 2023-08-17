@@ -1,0 +1,35 @@
+---
+const links = [
+  { name: "🏠 Home", href: "/" },
+  { name: "📓 Blog", href: "/blog" },
+  { name: "🐙 Github", href: "https://github.com/afranche" },
+  { name: "📹 Twitch", href: "https://twitch.tv/afranche" },
+];
+---
+
+<nav class="flex justify-center items-center text-xs lg:text-lg w-full h-16 border-b border-b-[#1e1b4b] bg-indigo-900">
+  <div class="flex justify-between items-center w-full max-w-4xl">
+    <ul class="flex justify-center items-center gap-3 ml-4 font-bold">
+      {
+        links.map((l) => (
+          <li>
+            <a href={l.href} class="px-2 py-1 rounded-sm hover:bg-[#1e1b4b]">
+              {l.name}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+    <!-- <input class="search" type="search" placeholder="🔎 Search"></search> -->
+  </div>
+</nav>
+
+<style>
+.search {
+  @apply mr-4 px-2 rounded-md bg-transparent text-right;
+
+  &:hover, &:focus {
+    @apply bg-[#1e1b4b] outline-none;
+  }
+}
+</style>
